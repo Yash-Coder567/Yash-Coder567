@@ -43,8 +43,9 @@
 | Project Name | Description | Tech |
 |--------------|-------------|------|
 | 📝 Terminal Text Editor | Custom Notepad built using C & POSIX | C, Linux |
-| 🧠 Intelligent Cache Simulator | An **intelligent** cache simulator in C that implements and compares LRU, LFU, and ARC cache replacement algorithms for performance analysis.| C, Next.js, TypeScript, CSS |
-| ⚙️ CPU Task Scheduler Simulator | CPU Task Scheduler Simulator is a web app that visually simulates common CPU scheduling algorithms for learning operating system concepts.| C, Next.js, TypeScript, CSS |
+| 🧠 Intelligent Cache Simulator | An **intelligent** cache simulator in C that implements and compares LRU, LFU, and ARC cache replacement algorithms for performance analysis. | C, Next.js, TypeScript, CSS |
+| ⚙️ CPU Task Scheduler Simulator | CPU Task Scheduler Simulator is a web app that visually simulates common CPU scheduling algorithms for learning operating system concepts. | C, Next.js, TypeScript, CSS |
+| ⚡ Advanced Fault Detection Plan | AI-powered electrical fault detection & classification system using ML models, FastAPI backend, Streamlit dashboard, and React frontend for real-time monitoring and explainable analytics. | Python, FastAPI, Streamlit, React, TypeScript, Tailwind CSS, Machine Learning |
 
 > 🔗 Check out my repositories for detailed implementations.
 
